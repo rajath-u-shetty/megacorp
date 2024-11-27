@@ -1,0 +1,10 @@
+PRs From a Fork
+When you fork someone's repository on a platform like GitHub, you get a copy of the repository in your account. This is the standard way to contribute to someone else's open-source project. The steps are typically:
+
+Fork their repo into your account
+Clone your fork to your local machine
+Create a new branch (let's call it your_feature)
+Make changes
+Commit and push changes to your fork's remote your_feature branch
+Create a pull request to original_owner/repo main from your_username/repo your_feature
+Then the original owner can review your changes. If they like them, they can merge the changes straight from your fork into their repository.
